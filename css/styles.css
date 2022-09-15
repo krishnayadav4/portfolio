@@ -69,19 +69,6 @@ a:hover{
   width: 1200px;
   height: 900px;
 }
-
-.top-cloud{
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.bottom-cloud{
-  position: absolute;
-  left: 300px;
-  bottom: 250px;
-}
-
 .stu{
   text-decoration: underline;
 }
